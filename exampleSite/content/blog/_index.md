@@ -1,6 +1,8 @@
 ---
-title       : "Roxo Blog"
-date        : 2019-12-23T20:17:01+06:00
-description : "By fusing strategy & design we help our partners build their brands, drive business, & stand out from the noise in saturated markets! Follow our blog for the latest case studies and projects."
----
+title       : "Recetas y métodos"  
+date        : 2024-11-30T20:17:01+06:00  
+description : "Exploramos el arte del café. Descubrí recetas y métodos alternativos de preparación para disfrutar cada taza de una manera especial. Seguinos en nuestro blog para aprender más y llevar tu pasión cafetera al siguiente nivel."  
+----
+
+
 
